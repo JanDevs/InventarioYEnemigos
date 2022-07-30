@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 198837c8e869c69489653e817c1311b6, type: 3}
   m_Name: monedaOro
   m_EditorClassIdentifier: 
-  id: 2
-  itemName: Gold Coin
-  value: 20
+  id: 0
+  itemName: Gold
+  value: 0
   icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
