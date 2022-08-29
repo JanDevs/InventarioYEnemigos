@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class scriptJugador : MonoBehaviour
 {
-    public int health, mana, type;
 
     // Start is called before the first frame update
     void Start()
@@ -24,5 +23,9 @@ public class scriptJugador : MonoBehaviour
         {
 
         }
+        
     }
+
+
+
 }

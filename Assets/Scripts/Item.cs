@@ -9,4 +9,19 @@ public class Item : ScriptableObject
     public string itemName;
     public int value;
     public Sprite icon;
+    public int str;
+    public int hlt;
+    public int arm;
+    public int spd;
+    public int dmg;
+    public ItemType itemType;
+
+    public enum ItemType
+    {
+        Potion,
+        Helm,
+        
+    }
+
+    
 }

@@ -14,5 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 0
   itemName: Gold
-  value: 0
+  value: 20
   icon: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  type: 0
+  str: 0
+  hlt: 0
+  arm: 0
+  spd: 0
+  dmg: 0
+  itemType: 0
